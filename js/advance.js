@@ -31,5 +31,8 @@ $("#vertical").steps({
     headerTag: "h3",
     bodyTag: "section",
     transitionEffect: "slideLeft",
-    stepsOrientation: "vertical"
+    stepsOrientation: "vertical",
+    onFinished:function (){
+        window.location.replace("http://robin.adovasoft.com/My_portfolio/page2");
+    }
 });

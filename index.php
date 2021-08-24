@@ -14,7 +14,9 @@
 </head>
 
 <body>
-    <div class="container mt-5">
+    <h2 class="text-center text-success">Welcome, Click next till finish to get a surprise...</h2>
+    <hr>
+    <div class="container">
         <div id="vertical">
             <h3>Main Info</h3>
             <section>
@@ -29,37 +31,33 @@
 
                 </p>
             </section>
-            <h3>Sensors</h3>
+            <h3>Picture-1</h3>
             <section>
-                <p>If your design includes any sensor please select a design patterns that best suits. If you can not find the design pattern that you want to use send it to us. We can add it to our librarry.
-                    <br>
-
-
-                </p>
+                <img style="width:100%; height:80%" src="http://robin.adovasoft.com/My_portfolio/public/img/elements/g12.jpeg" alt="">
             </section>
-            <h3>Processing</h3>
+            <h3>Picture-2</h3>
             <section>
-                <p>The next and previous buttons help you to navigate through your content.</p>
+            <img style="width:100%; height:80%" src="http://robin.adovasoft.com/My_portfolio/public/img/elements/g1.jpeg" alt="">
             </section>
-            <h3>Communications</h3>
+            <h3>Picture-3</h3>
             <section>
-                <p>The next and previous buttons help you to navigate through your content.</p>
+                <img style="width:100%; height:80%" src="http://robin.adovasoft.com/My_portfolio/public/img/elements/g5.jpeg" alt="">
             </section>
-            <h3>User Interface</h3>
+            <h3>Picture-4</h3>
             <section>
-                <p>The next and previous buttons help you to navigate through your content.</p>
+            <img style="width:100%; height:80%" src="http://robin.adovasoft.com/My_portfolio/public/img/elements/g14.jpeg" alt="">
             </section>
-            <h3>Storage</h3>
+            <h3>Picture-5</h3>
             <section>
-                <p>The next and previous buttons help you to navigate through your content.</p>
+                <img style="width:100%; height:80%" src="http://robin.adovasoft.com/My_portfolio/public/img/elements/g8.jpeg" alt="">
             </section>
-            <h3>Voltage</h3>
+            <h3>Picture-6</h3>
             <section>
-                <p>The next and previous buttons help you to navigate through your content.</p>
+                <img style="width:100%; height:80%" src="http://robin.adovasoft.com/My_portfolio/public/img/elements/g16.jpeg" alt="">
             </section>
-            <h3>Physical</h3>
+            <h3>Picture-7</h3>
             <section>
-                <p>The next and previous buttons help you to navigate through your content.</p>
+                <img style="width:100%; height:80%" src="http://robin.adovasoft.com/My_portfolio/public/img/elements/g3.jpeg" alt="">
             </section>
         </div>
     </div>
