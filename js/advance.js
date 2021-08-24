@@ -1,4 +1,4 @@
-var form = $("#contact");
+/*var form = $("#contact");
 form.validate({
     errorPlacement: function errorPlacement(error, element) { element.before(error); },
     rules: {
@@ -7,9 +7,9 @@ form.validate({
         }
     }
 });
-form.children("div").steps({
-    headerTag: "h3",
-    bodyTag: "section",
+form.children("ul li").steps({
+    headerTag: "li",
+    bodyTag: "div",
     transitionEffect: "slideLeft",
     onStepChanging: function (event, currentIndex, newIndex)
     {
@@ -25,4 +25,11 @@ form.children("div").steps({
     {
         alert("Submitted!");
     }
+});*/
+
+$("#vertical").steps({
+    headerTag: "h3",
+    bodyTag: "section",
+    transitionEffect: "slideLeft",
+    stepsOrientation: "vertical"
 });
